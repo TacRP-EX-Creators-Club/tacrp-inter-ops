@@ -11,7 +11,7 @@ SWEP.SubCatTier = "3Security"
 SWEP.SubCatType = "3Machine Pistol"
 
 SWEP.Description = "Machine pistol with high fire rate and mobility."
-SWEP.Description_Quote = "\"Sooner or later, you'll have to jump.\""
+SWEP.Description_Quote = "\"Sooner or later, you'll have to jump.\"" -- Mirror's Edge (2008)
 
 SWEP.Trivia_Caliber = "9x19mm"
 SWEP.Trivia_Manufacturer = "Glock Ges.m.b.H"

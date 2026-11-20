@@ -12,7 +12,7 @@ SWEP.SubCatTier = "2Operator"
 SWEP.SubCatType = "5Battle Rifle"
 
 SWEP.Description = "Compact, high mobility battle rifle with swift handling."
-SWEP.Description_Quote = "\"Sand Bravo, we're reading 70 bogeys in your sector.\""
+SWEP.Description_Quote = "\"Sand Bravo, we're reading 70 bogeys in your sector.\"" -- Call of Duty: Modern Warfare 2 (2009)
 
 SWEP.Trivia_Caliber = "7.62x51mm"
 SWEP.Trivia_Manufacturer = "FN America"

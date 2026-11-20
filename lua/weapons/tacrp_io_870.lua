@@ -12,7 +12,7 @@ SWEP.SubCatTier = "3Security"
 SWEP.SubCatType = "5Shotgun"
 
 SWEP.Description = "Nickel plated \"Marine Magnum\" shotgun. Poor handling, but has great capacity and firepower."
-SWEP.Description_Quote = "\"There's gold in them thar hills!\""
+SWEP.Description_Quote = "\"There's gold in them thar hills!\"" -- The American Claimant (1892)
 
 SWEP.Trivia_Caliber = "12 Gauge"
 SWEP.Trivia_Manufacturer = "Remington"

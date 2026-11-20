@@ -12,7 +12,7 @@ SWEP.SubCatTier = "5Value"
 SWEP.SubCatType = "1Pistol"
 
 SWEP.Description = "Small caliber pistol fitted with an integrated suppressor. Near-zero recoil due to weak rounds."
-SWEP.Description_Quote = "\"Take comfort in knowing you never had a choice.\""
+SWEP.Description_Quote = "\"Take comfort in knowing you never had a choice.\"" -- Collateral (2004)
 
 SWEP.Trivia_Caliber = ".22 LR"
 SWEP.Trivia_Manufacturer = "Sturm, Ruger & Co."

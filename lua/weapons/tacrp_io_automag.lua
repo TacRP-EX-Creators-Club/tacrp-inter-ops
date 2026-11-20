@@ -12,7 +12,7 @@ SWEP.SubCatTier = "3Security"
 SWEP.SubCatType = "2Magnum Pistol"
 
 SWEP.Description = "Highly accurate magnum pistol. Great handling due to its size, but can only mount pistol optics."
-SWEP.Description_Quote = "\"And if properly used, it can remove the fingerprints.\"" // Sudden Impact
+SWEP.Description_Quote = "\"And if properly used, it can remove the fingerprints.\"" -- Sudden Impact (1983)
 
 SWEP.Trivia_Caliber = ".44 AMP"
 SWEP.Trivia_Manufacturer = "Auto Mag Corporation"

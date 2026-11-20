@@ -12,7 +12,7 @@ SWEP.SubCatTier = "3Security"
 SWEP.SubCatType = "1Pistol"
 
 SWEP.Description = "Handgun with superior range and precision but low capacity."
-SWEP.Description_Quote = "\"The correct term is 'babes,' sir.\""
+SWEP.Description_Quote = "\"The correct term is 'babes,' sir.\"" -- Point Break (1991)
 
 SWEP.Trivia_Caliber = ".40 S&W" // ... because the XM25 is 9mm only and doesn't come in 13 rounders
 SWEP.Trivia_Manufacturer = "SIG Sauer AG"

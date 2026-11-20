@@ -12,7 +12,7 @@ SWEP.SubCatTier = "3Security"
 SWEP.SubCatType = "3Machine Pistol"
 
 SWEP.Description = "Machine pistol notorious for its ease of conversion to fully automatic fire, and subsequent criminal usage."
-SWEP.Description_Quote = "\"The customer is always right.\""
+SWEP.Description_Quote = "\"The customer is always right.\"" -- Falling Down (1993)
 
 SWEP.Trivia_Caliber = "9x19mm"
 SWEP.Trivia_Manufacturer = "Intratec"

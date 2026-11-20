@@ -12,7 +12,7 @@ SWEP.SubCatTier = "5Value"
 SWEP.SubCatType = "6Marksman Rifle"
 
 SWEP.Description = "Antique bolt-action rifle with an enduring design. Powerful up close, but is essentially obsolete on the modern battlefield."
-SWEP.Description_Quote = "\"Do you want total war?\""
+SWEP.Description_Quote = "\"Do you want total war?\"" -- Joseph Goebbels (1943)
 
 SWEP.Trivia_Caliber = "7.92x57mm Mauser"
 SWEP.Trivia_Manufacturer = "Mauser"

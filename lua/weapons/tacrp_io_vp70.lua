@@ -12,7 +12,7 @@ SWEP.SubCatTier = "4Consumer"
 SWEP.SubCatType = "3Machine Pistol"
 
 SWEP.Description = "Polymer pistol with an innovative holster stock that allows for incredibly fast burst fire."
-SWEP.Description_Quote = "\"Where's everyone going? Bingo?\""
+SWEP.Description_Quote = "\"Where's everyone going? Bingo?\"" -- Resident Evil 4 (2005)
 
 SWEP.Trivia_Caliber = "9x19mm"
 SWEP.Trivia_Manufacturer = "Heckler & Koch"

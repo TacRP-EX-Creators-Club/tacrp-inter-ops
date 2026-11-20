@@ -12,7 +12,7 @@ SWEP.SubCatTier = "1Elite"
 SWEP.SubCatType = "2Magnum Pistol"
 
 SWEP.Description = "Massive long barrel revolver firing a massive magnum round, reigning as the most powerful production handgun in the world."
-SWEP.Description_Quote = "\"You dweebs just ruined a five year investigation!\""
+SWEP.Description_Quote = "\"You dweebs just ruined a five year investigation!\"" -- 21 Jump Street (2012)
 
 SWEP.Trivia_Caliber = ".500 S&W Magnum"
 SWEP.Trivia_Manufacturer = "Smith & Wesson"

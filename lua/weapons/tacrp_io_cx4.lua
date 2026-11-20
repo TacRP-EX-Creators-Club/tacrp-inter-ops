@@ -12,7 +12,7 @@ SWEP.SubCatTier = "4Consumer"
 SWEP.SubCatType = "5Sporter"
 
 SWEP.Description = "Semi-automatic pistol carbine with good range.\nMediocre armor penetration, but the large frame makes the weapon quite stable."
-SWEP.Description_Quote = "As famously seen in a certain PMC leader's arsenal."
+SWEP.Description_Quote = "As famously seen in a certain PMC leader's arsenal." -- Wagner Group. 
 
 SWEP.Trivia_Caliber = "9x19mm"
 SWEP.Trivia_Manufacturer = "Pietro Beretta"
