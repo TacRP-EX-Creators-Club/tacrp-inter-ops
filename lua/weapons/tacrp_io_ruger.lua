@@ -99,9 +99,9 @@ SWEP.Range_Min = 700
 SWEP.Range_Max = 2500
 SWEP.Penetration = 2 // units of metal this weapon can penetrate
 SWEP.ArmorPenetration = 0.25
-SWEP.ArmorBonus = 0.5
+SWEP.ArmorBonus = 0.25
 
-SWEP.MuzzleVelocity = 32500
+SWEP.MuzzleVelocity = 17500
 
 SWEP.BodyDamageMultipliers = {
     [HITGROUP_HEAD] = 3,
@@ -119,7 +119,7 @@ SWEP.BodyDamageMultipliers = {
 SWEP.Firemode = 1
 
 SWEP.RPM = 500
-SWEP.RPMMultSemi = 0.8
+SWEP.RPMMultSemi = 0.7
 
 SWEP.Spread = 0.002
 
@@ -129,11 +129,11 @@ SWEP.RecoilResetTime = 0.1
 SWEP.RecoilDissipationRate = 7.5
 SWEP.RecoilFirstShotMult = 0.8
 
-SWEP.RecoilVisualKick = 0.1
-SWEP.RecoilKick = 1
+SWEP.RecoilVisualKick = 0.25
+SWEP.RecoilKick = 1.5
 
 SWEP.RecoilSpreadPenalty = 0.0015
-SWEP.HipFireSpreadPenalty = 0.015
+SWEP.HipFireSpreadPenalty = 0.017
 SWEP.MidAirSpreadPenalty = 0.06
 SWEP.PeekPenaltyFraction = 0.75
 
@@ -141,7 +141,7 @@ SWEP.CanBlindFire = true
 
 // handling
 
-SWEP.MoveSpeedMult = 0.975
+SWEP.MoveSpeedMult = 1
 SWEP.ShootingSpeedMult = 1
 SWEP.SightedSpeedMult = 0.9
 

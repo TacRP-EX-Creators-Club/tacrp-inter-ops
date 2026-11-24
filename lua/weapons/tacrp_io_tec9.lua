@@ -72,15 +72,15 @@ SWEP.TTTReplace = TacRP.TTTReplacePreset.MachinePistol
 SWEP.Damage_Max = 18
 SWEP.Damage_Min = 6
 SWEP.Range_Min = 400
-SWEP.Range_Max = 1800
+SWEP.Range_Max = 1500
 SWEP.Penetration = 4 // units of metal this weapon can penetrate
-SWEP.ArmorPenetration = 0.5
+SWEP.ArmorPenetration = 0.45
 SWEP.ArmorBonus = 0.5
 
 SWEP.MuzzleVelocity = 11000
 
 SWEP.BodyDamageMultipliers = {
-    [HITGROUP_HEAD] = 2.5,
+    [HITGROUP_HEAD] = 2,
     [HITGROUP_CHEST] = 1,
     [HITGROUP_STOMACH] = 1,
     [HITGROUP_LEFTARM] = 1,
@@ -95,11 +95,12 @@ SWEP.BodyDamageMultipliers = {
 SWEP.Firemodes = false
 SWEP.Firemode = 2
 
-SWEP.RPM = 1000
+SWEP.RPM = 950
 
 SWEP.Spread = 0.012
-SWEP.RecoilSpreadPenalty = 0.0017
-SWEP.HipFireSpreadPenalty = 0.018
+SWEP.RecoilSpreadPenalty = 0.0019
+SWEP.HipFireSpreadPenalty = 0.025
+SWEP.RecoilAltMultiplier = 300
 
 SWEP.ShootTimeMult = 0.4
 
@@ -112,25 +113,25 @@ SWEP.RecoilFirstShotMult = 1 // multiplier for the first shot's recoil amount
 SWEP.RecoilVisualKick = 0.75
 
 SWEP.RecoilKick = 4.5
-SWEP.RecoilStability = 0.2
+SWEP.RecoilStability = 0.15
 
 SWEP.CanBlindFire = true
 
 // handling
 
-SWEP.MoveSpeedMult = 0.975
+SWEP.MoveSpeedMult = 0.92
 SWEP.ShootingSpeedMult = 0.75
 SWEP.SightedSpeedMult = 0.8
 
 SWEP.ReloadSpeedMult = 0.6
 
 SWEP.AimDownSightsTime = 0.3
-SWEP.SprintToFireTime = 0.33
+SWEP.SprintToFireTime = 0.3
 
 SWEP.Sway = 1
 SWEP.ScopedSway = 0.3
 
-SWEP.FreeAimMaxAngle = 4
+SWEP.FreeAimMaxAngle = 4.5
 
 // hold types
 

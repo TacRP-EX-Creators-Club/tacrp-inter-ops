@@ -71,13 +71,13 @@ SWEP.TTTReplace = TacRP.TTTReplacePreset.Pistol
 
 // "ballistics"
 
-SWEP.Damage_Max = 45
+SWEP.Damage_Max = 40
 SWEP.Damage_Min = 18
-SWEP.Range_Min = 100 // distance for which to maintain maximum damage
+SWEP.Range_Min = 400 // distance for which to maintain maximum damage
 SWEP.Range_Max = 1200 // distance at which we drop to minimum damage
 SWEP.Penetration = 3 // units of metal this weapon can penetrate
 SWEP.ArmorPenetration = 0.5
-SWEP.ArmorBonus = 0.5
+SWEP.ArmorBonus = 1
 
 SWEP.MuzzleVelocity = 13000
 
@@ -98,8 +98,7 @@ SWEP.Firemode = 1
 
 SWEP.FiremodeName = "Double-Action" // only used externally for firemode name distinction
 
-SWEP.RPM = 360
-SWEP.RPMMultSemi = 0.75
+SWEP.RPM = 300
 
 SWEP.Spread = 0.01
 
@@ -124,13 +123,13 @@ SWEP.CanBlindFire = true
 // handling
 
 SWEP.MoveSpeedMult = 1
-SWEP.ShootingSpeedMult = 0.75
+SWEP.ShootingSpeedMult = 0.9
 SWEP.SightedSpeedMult = 0.9
 
 SWEP.ReloadSpeedMult = 0.75
 
-SWEP.AimDownSightsTime = 0.15
-SWEP.SprintToFireTime = 0.15
+SWEP.AimDownSightsTime = 0.18
+SWEP.SprintToFireTime = 0.2
 
 SWEP.Sway = 1
 SWEP.ScopedSway = 0.4
